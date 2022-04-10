@@ -6,7 +6,6 @@ You can find the dataset online, made by the EUMETSAT datacenter. I personnaly u
 
 
 <img align="left" src="./README-Images/VIS8_MSG4-SEVI-MSG15-0100-NA-20190502092744.jpg" width="150" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img 
 src="./README-Images/VIS8_MSG4-SEVI-MSG15-0100-NA-20190502172744.jpg" width="150" />
 
