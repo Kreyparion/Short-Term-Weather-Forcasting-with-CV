@@ -20,3 +20,9 @@ All the steps are presented in the PowerPoint (in french)
 The best performing algorithms were the U-net and the U-net mixed with LSTM
 
 <img src="./README-Images/unet.png" />
+
+## Results
+
+Working on 200x200 pictures gives us :
+
+<img src="./README-Images/example-gif.gif" />
